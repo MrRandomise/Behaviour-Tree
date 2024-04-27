@@ -70,3 +70,6 @@ MonoBehaviour:
   - id: 18
     name: Resource
     type: IAtomicObject
+  - id: 19
+    name: ResourceService
+    type: GameObject
