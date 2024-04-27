@@ -73,3 +73,9 @@ MonoBehaviour:
   - id: 19
     name: ResourceService
     type: GameObject
+  - id: 20
+    name: DialogBarnFull
+    type: GameObject
+  - id: 21
+    name: DialogNoTrees
+    type: GameObject

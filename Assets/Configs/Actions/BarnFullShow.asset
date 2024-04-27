@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: adf4650732d548f4a738fa444a9ab948, type: 3}
   m_Name: BarnFullShow
   m_EditorClassIdentifier: 
-  _targetToShow: 0
+  _targetToShow: 20

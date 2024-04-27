@@ -61,7 +61,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Content\Barn.cs" />
-    <Compile Include="Assets\Scripts\Test\CharacterController.cs" />
     <Compile Include="Assets\Scripts\Content\Character.cs" />
     <Compile Include="Assets\Scripts\Content\Axe.cs" />
     <Compile Include="Assets\Scripts\Content\Tree.cs" />
